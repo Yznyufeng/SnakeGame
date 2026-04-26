@@ -22,3 +22,7 @@ java -cp out com.example.snake.SnakeGame
 - 方向键或 WASD：控制移动方向
 - 空格：开始 / 暂停 / 继续
 - R：重新开始
+
+## 界面
+
+![](C:\Users\29656\AppData\Roaming\marktext\images\2026-04-26-13-44-29-image.png)
