@@ -25,4 +25,4 @@ java -cp out com.example.snake.SnakeGame
 
 ## 界面
 
-![](C:\Users\29656\AppData\Roaming\marktext\images\2026-04-26-13-44-29-image.png)
+![示例](images/exp.png)
